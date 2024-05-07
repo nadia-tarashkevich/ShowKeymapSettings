@@ -13,7 +13,7 @@
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
-    <description>Add an action to show keymap settings <br />
+    <description>Add an action to show keymap settings.
         Opens IDE "Settings" dialog and focuses on "Keymap" right away
         </description>
     
